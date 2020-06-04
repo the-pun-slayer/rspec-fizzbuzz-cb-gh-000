@@ -9,3 +9,4 @@ def fizzbuzz(a)
     "FizzBuzz"
   elsif
    nil
+  end
